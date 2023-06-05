@@ -13,5 +13,14 @@ exchangerate.host with over 160 currencies(The API mentioned in the requirements
 
 * Currencies is written for Android in Kotlin, targeting Android 13 using MVVM architecture.
 
-# Apk:
+## Desingn: 
+Material
+
+## Architechture: 
+ MVVM
+ 
+## Language: 
+Kotlin
+
+## Apk:
 https://we.tl/t-ADA1o0pEGT
