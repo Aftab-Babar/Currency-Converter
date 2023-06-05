@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE resources [<!ENTITY nbsp "&#160;">]>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- main settings -->
+    <string name="category_settings">General Settings</string>
+    <string name="fee_key" translatable="false">KEY_FEE</string>
+    <string name="fee_title">Foreign transaction fee</string>
+    <string name="fee_summary">Depending on your credit card agreement, your bank may charge a fee on all foreign exchange transactions. Here you can enter that fee. It will be added on top of the calculation, so you know how much you <i>really</i> pay.</string>
+    <string name="previewConversion_key" translatable="false">KEY_PREVIEW_CONVERSION</string>
+    <string name="previewConversion_title">Conversion preview</string>
+    <string name="previewConversion_summary">Show the current conversion for each rate in the currency picker.</string>
+    <string name="extendedKeypad_key" translatable="false">KEY_EXTENDED_KEYPAD</string>
+    <string name="extendedKeypad_title">Extended Keypad</string>
+    <string name="extendedKeypad_summary">Add two additional buttons: <b>00</b>&nbsp;and&nbsp;<b>000</b>.</string>
+    <string name="category_appearance">Appearance</string>
+    <string name="system_default">System default</string>
+    <string name="theme_key" translatable="false">KEY_THEME</string>
+    <string name="theme_title">Design</string>
+    <string name="theme_option_light">Light</string>
+    <string name="theme_option_dark">Dark</string>
+    <string name="pure_black_key" translatable="false">KEY_PURE_BLACK_ENABLED</string>
+    <string name="pure_black_enabled_title">OLED black</string>
+    <string name="pure_black_enabled_summary">Use pure black in dark mode</string>
+    <!-- languages -->
+    <string name="language_key" translatable="false">KEY_LANGUAGE</string>
+    <string name="language_title">App Language</string>
+    <string name="language_ar">Arabic</string>
+    <string name="language_bg">Bulgarian</string>
+    <string name="language_bn">Bengali</string>
+    <string name="language_ca">Catalan</string>
+    <string name="language_cs">Czech</string>
+    <string name="language_de">German</string>
+    <string name="language_el">Greek</string>
+    <string name="language_en">English</string>
+    <string name="language_es">Spanish</string>
+    <string name="language_fr">French</string>
+    <string name="language_hr">Croatian</string>
+    <string name="language_hu">Hungarian</string>
+    <string name="language_in">Indonesian</string>
+    <string name="language_is">Icelandic</string>
+    <string name="language_it">Italian</string>
+    <string name="language_iw">Hebrew</string>
+    <string name="language_nb">Norwegian</string>
+    <string name="language_nl">Dutch</string>
+    <string name="language_pl">Polish</string>
+    <string name="language_pt_BR">Portuguese (Brazil)</string>
+    <string name="language_ru">Russian</string>
+    <string name="language_sv">Swedish</string>
+    <string name="language_tr">Turkish</string>
+    <string name="language_uk">Ukrainian</string>
+    <string name="language_vi">Vietnames</string>
+    <string name="language_zh_CN">Chinese (Simplified)</string>
+    <!-- api -->
+    <string name="category_api">Exchange rates</string>
+    <string name="api_key" translatable="false">KEY_API</string>
+    <string name="api_title">Data provider</string>
+    <string name="key_apiProvider" translatable="false">KEY_DATA_SOURCE</string>
+    <string name="api_about_title">About %s</string>
+    <string name="api_about_exchangerateHost"><a href="https://exchangerate.host/"><b>Exchangerate.host</b></a> sources the currency rates from various financial data providers and banks, including the European Central Bank. All exchange rate data are delivered in midpoint data. Midpoint rates are determined by calculating the average median rate of Bid and Ask.\n<b>About 160 currencies are included.</b></string>
+    <string name="api_about_frankfurterApp"><a href="https://www.frankfurter.app/"><b>Frankfurter.app</b></a> tracks reference exchange (forex) rates published by the European Central Bank.\n<b>About 30 currencies are included.</b></string>
+    <string name="api_about_ferEe"><a href="https://fer.ee/"><b>Fer.ee</b></a> is a relatively new service, that (just like Frankfurter.app) does track reference exchange (forex) rates that are published by the European Central Bank.\n<b>About 30 currencies are included.</b></string>
+    <string name="api_about_inforEuro"><a href="https://commission.europa.eu/funding-tenders/procedures-guidelines-tenders/information-contractors-and-beneficiaries/exchange-rate-inforeuro_en"><b>InforEuro</b></a> provides the European Commission’s official monthly accounting rate for the Euro and the conversion rates as established by the Accounting Officer of the European Commission in line with article 19 of the Financial Regulation.\nThese rates are used to calculate amounts for the reimbursement of expenses, travel or subsistence costs for external people participating in meetings, interviews etc. at the request of the European Commission.\n<b>About 150 currencies are included.</b></string>
+    <string name="key_refreshPeriod" translatable="false">KEY_DATA_UPDATE</string>
+    <string name="api_refreshPeriod_title">Refresh period</string>
+    <string name="api_refreshPeriod_exchangerateHost">Exchange rates are updated around midnight UTC every working day.</string>
+    <string name="api_refreshPeriod_frankfurterApp">The data is getting updated around 16:00 CET every working day.</string>
+    <string name="api_refreshPeriod_ferEe">Rates are updated every working day.</string>
+    <string name="api_refreshPeriod_inforEuro">The rates indicated are the market rates for the second to last day of the previous month as quoted by the European Central Bank or, depending on availability, provided by the delegations or other appropriate sources close to that date.</string>
+    <!-- about -->
+    <string name="category_about">About this app</string>
+    <string name="disclaimer_title">Disclaimer</string>
+    <string name="disclaimer_summary">Although the app is very thoroughly written and tested, <b>there is no guarantee that the data it shows is correct</b>. The exchange rates are provided by a third party and this app can\'t make no promise whatsoever that the data is true and up-to-date.\nAdditionally, the rates provided – still if correct – may vary from the ones used by your bank.\nLastly: Mistakes happen. Never blindly trust anyone! That being said, rest assured I wouldn\'t have released this app if I\'ve had any doubt that it works as intended.</string>
+    <string name="donate_key" translatable="false">KEY_DONATE</string>
+    <string name="donate_title">Support the developer</string>
+    <string name="donate_summary">Donate via PayPal</string>
+    <string name="rate_key" translatable="false">KEY_RATE</string>
+    <string name="rate_title">Rate this app</string>
+    <string name="rate_summary">If you\'d like, you can help others to discover Currencies. Click here to rate the app on Google Play.</string>
+    <string name="category_versioninfo">Version info</string>
+    <string name="changelog_key" translatable="false">KEY_CHANGELOG</string>
+    <string name="title_changelog">Changelog</string>
+    <string name="version_key" translatable="false">KEY_ABOUT</string>
+    <string name="version_summary" translatable="false" tools:ignore="PluralsCandidate">© 2020-%1$s Maximilian Salomon</string>
+</resources>

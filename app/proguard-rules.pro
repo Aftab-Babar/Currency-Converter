@@ -1,0 +1,1 @@
+-keep class com.aftab.currencies.R$array { public *** changelog_*; }

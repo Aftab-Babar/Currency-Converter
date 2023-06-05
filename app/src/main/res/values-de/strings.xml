@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="desc_toggle_currencies">tausche Währungen</string>
+    <string name="rates_date_latest">Kurse vom &lt;b>%1$s&lt;/b> via &lt;b>%2$s&lt;/b></string>
+    <string name="rates_date_historical">Historische Kurse vom &lt;b>%1$s&lt;/b> via &lt;b>%2$s&lt;/b></string>
+    <string name="copied_to_clipboard">&lt;b&gt;%s&lt;/b&gt; in die Zwischenablage kopiert</string>
+    <string name="historical_rates_dialog_title">Historische Kurse</string>
+    <string name="historical_rates_dialog_toggle">Wechselkurse eines spezifischen Datums verwenden. Deaktivieren, um immer die aktuellsten Kurse zu benutzen.</string>
+    <string name="error">Fehler: %s</string>
+    <string name="error_generic">Unbekanntes Problem.</string>
+    <string name="error_http">Server antwortet mit HTTP %d</string>
+    <string name="error_timeout">Server antwortet nicht rechtzeitig oder ist nicht erreichbar.</string>
+    <string name="error_no_data">Konnte nicht mit dem Server verbinden.</string>
+    <string name="error_api_error">Ein API-Fehler ist aufgetreten. Bitte später erneut versuchen.</string>
+    <string name="menu_settings">Einstellungen</string>
+    <string name="menu_refresh">Kurse aktualisieren</string>
+    <string name="menu_timeline">Wechselkursverlauf</string>
+    <string name="tooltip_filter_starred">Nur favorisierte Währungen anzeigen.</string>
+</resources>
